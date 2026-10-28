@@ -19,3 +19,4 @@ jobs:
         with:
           node-version: '22'
       - run: node --check miniapp/app.js
+      - run: node tests/test_client.cjs

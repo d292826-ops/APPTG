@@ -1,7 +1,7 @@
 {
   ".gitignore": "71ec3a9530fd3652561f71c0c7a4ea7b239972f36440670c3ce5709370b2716c",
   ".env.example": "f06b78c57dad2c9358fb232e4be55e75aa7a9f2fafe5877a095ff2cc8a9b114c",
-  ".github/workflows/checks.yml": "ada2868adaaf8f0beb26251e9dc0311c0fe8113afe2f02db8083eebb9cbb90de",
+  ".github/workflows/checks.yml": "6826ae31c5b8669a32126f8c7cbf45841b629fde1379ebdc73af33ac162dbd1f",
   "README.md": "6bff74c68743a9c2471c1275ea3402a8feccdb3508de718814b7a447f45a0654",
   "README_BOT.md": "6d36a5c0161341c96c1ea5a9d40be7f1b5a1d3c58e56ee8a25e2dc67938e0050",
   "MINIAPP.md": "d93ae12628a788509bdd24d9117bdede6eed5347a89f3dd24c9380430e660e6f",
@@ -14,17 +14,18 @@
   "web_api.py": "cc8b9354dda1ccb1f0d1c0bae8219d24ebca8e1af697c30baebd4fe1eb78b08c",
   "web_auth.py": "a905b660892696451afa1b71b3404212f886d5d4267c4ce054a44c289fb5339e",
   "demo.py": "abdf92c91d2e0a473c021cd0b08b2ad928425069441d5ddd39683328f02b7203",
-  "miniapp/index.html": "1c8b088eb830db6d75abb95ebc98ab920288267b6f92280863b5959e6625ab89",
+  "miniapp/index.html": "0da9b0773e72db3971a23a01b345191e40d1b4c8f3f07c9976c7742ba9c4f2e5",
   "miniapp/style.css": "333f71e231fbeb4528b827fe1f9d571f7133d64c5fd9434d8957154fc2632b02",
-  "miniapp/app.js": "ef0ea7fa0966addbb7c9afa02e44f775bd8c86a76ea98bb3b5ad1eeb3ef2ec31",
+  "miniapp/app.js": "1bad57971f22bdd6de051bb1ebb3303c378daed165dd97e8fbfa530ad2ed8dad",
   "tests/test_booking.py": "afd1219c8e7fae379abf7718063d5f3c8c897f82d96243d88f10add8d67d2bd7",
   "tests/test_google.py": "1bae12eaefeda9bf3aee93523414121a8990a35b1aa7db6797e14b9588c069ff",
   "tests/test_web.py": "2bbf6c0aad636ac0eadc4fb1527018305090a0cd9027e3589c5da3aa9f7d7ecd",
   "deployment/googlebot.service": "000fb81f81b50e8283fcbd2c9c0ed371b6f60e7b272b165e80d2dc6b80c38a2d",
   "deployment/deploy_remote.py": "e5c243bd6b5a2b2ae072c4a521a363cbd612a89390413a6e45c06ff0cbe53c2c",
   "ТЗ Mini App.md": "7ab9f226cbd19b982d2e5098ebe03dd78d671f30cfea22653640045b2737c402",
-  "План Mini App.md": "f29ed07ea6bed98a290e99673bb5d92a7344c6be4547e6c5fe515f33181a0cbf",
+  "План Mini App.md": "2ecf9b1774a21fcb3cd70f1e56cedd7cb336b8adf87bc721d72b7e8df64e23f8",
   "Техническое задание.md": "2b70e833864570c05a6c21d695986c5fc7b45dde35d8974f72458426f14668c9",
   "deployment/check_live.py": "91ed823f1159e1cf79bc073caff92ddc75ff50b956bf7ee70ad2cbc51eb55c7b",
-  "Результат Mini App.md": "30cc5be3072a862c844c285b9d2948086728e76634b65ce7b6d79b20e1efef00"
+  "Результат Mini App.md": "d31619732d2d3d27c465331e1652355489faec3c99a65ed0f95c9c3bd99ec5d1",
+  "tests/test_client.cjs": "09c83adbfde9fcccd8f3da58d3b894df7a1085e1757507ca11e010eaf7c11b94"
 }
