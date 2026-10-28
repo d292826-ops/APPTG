@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+data/
+__pycache__/
+*.pyc
+*.sqlite3*
+*.db
+*.log
+tmp/
+output/
+.DS_Store
+*.tar.gz
+*.zip
+google_token.json
+google_client.json
