@@ -3,9 +3,10 @@
 Telegram Mini App и бот для согласования встреч с Дмитрием.
 
 - Бот: https://t.me/FinDir41bot
-- Приложение: https://lugovoy.shop/meet/ (адрес планируемого выпуска; статус размещения — в отчёте)
+- Приложение: https://lugovoy.shop/meet/
 - Локальная демонстрация и запуск: [MINIAPP.md](MINIAPP.md)
 - Требования: [ТЗ Mini App.md](ТЗ%20Mini%20App.md)
+- Результат: [Результат Mini App.md](Результат%20Mini%20App.md)
 - Этапы: [План Mini App.md](План%20Mini%20App.md)
 - Первоначальная документация бота: [README_BOT.md](README_BOT.md)
 
